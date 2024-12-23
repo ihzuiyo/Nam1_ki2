@@ -1,0 +1,6 @@
+Trên chéo chính: i<j
+Dưới cheo chinh: i>j
+O cheo chinh: i = j
+Tren cheo phu: i+j < n-1
+Duoi cheo phu: i+j > n-1
+O cheo phu: i+j = n-1

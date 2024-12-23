@@ -1,0 +1,4 @@
+Ma tran ban vua nhap vao la: 
+7	-6	2	3	
+4	9	1	5	
+-2	-2	1	1	

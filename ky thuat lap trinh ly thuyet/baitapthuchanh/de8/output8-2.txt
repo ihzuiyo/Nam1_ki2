@@ -1,0 +1,9 @@
+HO TEN: Dang Thai Binh 
+NAM SINH: 1985 
+NAM KET NAP: 2000 
+HO TEN: Phe Thi Thanh 
+NAM SINH: 1986 
+NAM KET NAP: 2001 
+HO TEN: Nguyen Van Hieu 
+NAM SINH: 1999 
+NAM KET NAP: 2004 

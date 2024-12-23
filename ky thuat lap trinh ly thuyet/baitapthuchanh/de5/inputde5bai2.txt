@@ -1,0 +1,25 @@
+8
+Le Ba Hung
+125000
+1
+Vu Van Doan
+142000
+2
+Le Cong Vinh
+116000
+3
+Ve Van Vay
+90000
+2
+Luu Van Phuong
+86000
+1
+Nuoc Tinh Khiet
+181000
+2
+Le Cong Vu
+148000
+3
+Cong Van Vinh
+146000
+1

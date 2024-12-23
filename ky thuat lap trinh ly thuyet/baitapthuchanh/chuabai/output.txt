@@ -1,0 +1,5 @@
+Doi bong ban vua nhap la:
+A 7 24 36
+B 5 31 28
+C 7 23 29
+D 9 24 9

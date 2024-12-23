@@ -1,0 +1,31 @@
+10
+Wo Xong Shi
+Hong Kong
+A
+Le Ba Dao
+Ha Noi
+B
+Thanh An Tap
+Thanh Hoa
+C
+Nguyen Trung Kien
+Son La
+B
+Ngo Quang Vu
+Hung Yen
+C
+Bui Hai Duc
+Hung Yen
+B
+Ho Viet Tung
+Hung Yen
+A
+Dinh Quang Hung
+Kien Giang
+B
+Nguyen Thai Duy
+Ha Noi
+C
+Nguyen Tien Dung
+My Dinh
+B

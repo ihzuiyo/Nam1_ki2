@@ -1,0 +1,22 @@
+Trước kia mình cũng thấy hại não với cái * với &, nhưng sau thời gian nghiền ngẫm mới thấy dễ hiểu. Cứ hiểu thế này:
+
+- Nếu gọi chỉ <Tên biến> thì C++ sẽ hiểu là địa chỉ của vùng nhớ
+
+
+- Còn gọi *<Tên biến> thì sẽ là giá trị vùng nhớ đó
+Như vậy, theo clip này thì:
+
+
+- Khi khai báo biến pointer với cú pháp <Kiểu> *<Tên biến> (cụ thể: Con_nguoi *bo_nhi) thì C++ sẽ hiểu (hoặc là tạo ra) biến bo_nhi có kiểu là Con_nguoi
+
+
+
+-  Khi gán <Tên biến> = &<Biến> (cụ thể: bo_nhi = &thao), C++ sẽ hiểu <Tên biến> là địa chỉ của <Biến>, (bo_nhi là địa chỉ của thao)
+
+
+
+
+- Vậy nên, khi gọi <Tên biến>.Trường (field), C++ sẽ hiểu là địa chỉ Trường; còn nếu gọi *<Tên biến>.Trường thì sẽ cho giá trị Trường của biến đó. Cụ thể, nếu gọi bo_nhi.tuoi C++ sẽ trả về địa chỉ trường (field) tuoi của bo_nhi; nhưng khi gọi *bo_nhi.tuoi thì nó sẽ trả về giá trị tuoi của bo_nhi
+Mình nói lòng vòng nhưng thật ra để hiểu về pointer sẽ như thế này:
+Với 1 biến kiểu POINTER, khi chỉ dùng TÊN BIẾN POINTER thì C++ sẽ xử lý theo ĐỊA CHỈ của biến được trỏ tới. Nhưng khi dùng *TÊN BIẾN POINTER thì nó làm việc theo GIÁ TRỊ của biến được trỏ đó
+So sánh với 1 biến thông thường, không phải là pointer sẽ thấy: <Tên biến pointer> = &<Biến thông thường>; và *<Tên biến pointer> = <Biến thông thường>

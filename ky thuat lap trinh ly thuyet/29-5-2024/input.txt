@@ -1,0 +1,25 @@
+8
+Le Cong Vinh
+8.6
+A
+Vu Van Bach
+9.8
+B
+Le Minh Quang
+2.4
+C
+Van Vi Vu
+8.2
+D
+Le Lai Luong
+7.6
+B
+Vi Vinh Long
+4.5
+A
+Cao Ba Quat
+10
+C
+Vu Duc Long
+5.3
+D

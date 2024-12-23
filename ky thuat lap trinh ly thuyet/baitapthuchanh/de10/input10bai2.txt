@@ -1,0 +1,28 @@
+10
+Le Quang Vinh
+9.4
+A
+Vu Van Bac
+6.5
+B
+Cao Ba Hung
+7.8
+C
+Le Van Thai
+4.4
+D
+Vu Dinh Kien
+6.7
+B
+Quach Thach Van
+2.4
+D
+Nguyen Van Thanh
+8.8
+C
+Le Hai Anh
+2.3
+A
+Thanh Van Thinh
+6.6
+C

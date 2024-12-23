@@ -1,0 +1,2 @@
+Day so la: 30 3 6 7 1 15 8 6 -6 -7 
+Phan tu le lon nhat cua ma tran la: 15

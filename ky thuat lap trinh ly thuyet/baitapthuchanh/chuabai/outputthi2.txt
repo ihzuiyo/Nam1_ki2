@@ -1,0 +1,5 @@
+  NAME  SCORE GOAL_SCORE GOAL_AWAY
+     D     9    24         9
+     A     7    24        31
+     C     7    23        30
+     B     5    31        32
